@@ -71,20 +71,20 @@ Check that these files exist in your server:
 ```
 server/
 ├── config/
-│   └── multerConfig.js          
+│   └── multerConfig.js          (NEW - Created)
 ├── middleware/
-│   └── authMiddleware.js         
+│   └── authMiddleware.js         (UPDATED)
 ├── models/
-│   ├── Resume.js                 
-│   └── User.js                   
+│   ├── Resume.js                 (Already exists)
+│   └── User.js                   (Already exists)
 ├── controllers/
-│   └── resumeController.js       
+│   └── resumeController.js       (COMPLETELY UPDATED)
 ├── routes/
-│   └── resumeRoutes.js           
+│   └── resumeRoutes.js           (UPDATED)
 ├── utils/
-│   └── atsAnalyzer.js            
-├── uploads/                      
-├── server.js                     
+│   └── atsAnalyzer.js            (COMPLETELY UPDATED)
+├── uploads/                      (Created automatically)
+├── server.js                     (UPDATED)
 └── package.json
 ```
 
@@ -111,14 +111,14 @@ Check that these files exist:
 client/
 ├── src/
 │   ├── pages/
-│   │   ├── Dashboard.js          
-│   │   └── UploadResume.js       
+│   │   ├── Dashboard.js          (UPDATED)
+│   │   └── UploadResume.js       (COMPLETELY REWRITTEN)
 │   ├── styles/
-│   │   └── UploadResume.css      
+│   │   └── UploadResume.css      (NEW - Created)
 │   ├── components/
-│   │   └── Sidebar.js            
+│   │   └── Sidebar.js            (Already exists)
 │   └── services/
-│       └── api.js                
+│       └── api.js                (UPDATED)
 └── package.json
 ```
 
@@ -398,20 +398,20 @@ ResumeAnalyzer/
 │   └── package.json
 ├── server/
 │   ├── config/
-│   │   └── multerConfig.js 
+│   │   └── multerConfig.js (NEW)
 │   ├── controllers/
 │   │   ├── authController.js
-│   │   └── resumeController.js 
+│   │   └── resumeController.js (UPDATED)
 │   ├── middleware/
-│   │   └── authMiddleware.js 
+│   │   └── authMiddleware.js (UPDATED)
 │   ├── models/
 │   │   ├── Resume.js
 │   │   └── User.js
 │   ├── routes/
 │   │   ├── authRoutes.js
-│   │   └── resumeRoutes.js 
+│   │   └── resumeRoutes.js (UPDATED)
 │   ├── utils/
-│   │   └── atsAnalyzer.js 
+│   │   └── atsAnalyzer.js (UPDATED)
 │   ├── uploads/
 │   ├── server.js (UPDATED)
 │   ├── package.json
@@ -508,4 +508,4 @@ If you encounter issues:
 
 ---
 
-**Setup Complete! Your Resume Upload feature is ready to use.** 
+**Setup Complete! Your Resume Upload feature is ready to use.** 🎉
