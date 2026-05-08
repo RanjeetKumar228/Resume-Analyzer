@@ -26,10 +26,8 @@ A full-featured resume analyzer built with MongoDB, Express, React, and Node.js.
 ### Installation & Setup
 
 **Complete setup guide with step-by-step instructions:**
-👉 See [SETUP_GUIDE.md](SETUP_GUIDE.md)
+👉 See [SETUP_GUIDE.md](Setup_Guide.md)
 
-**Detailed code changes and implementation:**
-👉 See [CODE_CHANGES.md](CODE_CHANGES.md)
 
 ### Quick Setup (TL;DR)
 
