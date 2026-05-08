@@ -222,7 +222,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## Support
 
 For issues or questions:
-1. Check [SETUP_GUIDE.md](SETUP_GUIDE.md) for setup help
-2. Review [CODE_CHANGES.md](CODE_CHANGES.md) for implementation details
-3. Check console and terminal for error messages
-4. Verify all dependencies are installed
+1. Check [SETUP_GUIDE.md](Setup_Guide.md) for setup help
+2. Check console and terminal for error messages
+3. Verify all dependencies are installed
