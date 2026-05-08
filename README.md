@@ -190,7 +190,7 @@ Important industry keywords not found in your resume
 - Check CORS settings
 - Verify token is in localStorage
 
-See [SETUP_GUIDE.md](SETUP_GUIDE.md) for complete troubleshooting.
+See [SETUP_GUIDE.md](Setup_Guide.md) for complete troubleshooting.
 
 ## Performance
 
